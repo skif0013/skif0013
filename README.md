@@ -1,9 +1,3 @@
-<h2>:man_technologist: About Me :</h2>
-
-<p>I am a Software Engineer.</p>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" height='45px'/>
